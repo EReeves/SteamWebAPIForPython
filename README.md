@@ -1,8 +1,6 @@
-Steam Web API for Python
+Steam Web API for Python OUTDATED
 
-A quick and dirty python module I wrote for somethin. I wrote this with Python Dev 3.4, so the compatability sucks.
-
-It's really bad, don't use it unless you're crazy.
+A quick and very dirty python module I wrote for something. I wrote this with Python Dev 3.4.
 
 ---------------
 
